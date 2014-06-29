@@ -1,0 +1,84 @@
+
+/*Format your header, content, sidebar, and footer*/
+
+body {
+	width:940px;
+}
+
+
+div.container {
+    width: 100%;
+    margin: 0px;
+    border: 1px solid gray;
+    line-height: 150%;
+}
+
+div.header, div.footer {
+    padding: 0.5em;
+    color: white;
+    background-color: gray;
+    clear: left;
+}
+
+h1.header {
+    padding: 0;
+    margin: 0;
+}
+
+div.left {
+    float: left;
+    width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+div.content {
+    margin-left: 190px;
+    border-left: 1px solid gray;
+    padding: 1em;
+}
+
+
+#image1 {
+
+}
+
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+
+
+/*Add padding, borders, and margins*/
+
+/*Center your content area in the browser*/
+
+/*Add width and height to divs and give them ids*/
+
+/*Psuedo-classes for links*/
+
+/*Positioning*/
+
+/*A div that contains an image and a caption, and position the caption absolutely overtop the image.*/
+
+/*Float side bar and content area*/
+
+
+
